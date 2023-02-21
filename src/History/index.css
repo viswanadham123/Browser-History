@@ -1,0 +1,23 @@
+.history-div {
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+  width: 80vw;
+  background-color: antiquewhite;
+}
+.p1 {
+  align-self: flex-start;
+}
+.img1 {
+  margin-left: 0px;
+  height: 15px;
+  width: 15px;
+  margin-left: 20px;
+}
+.p2 {
+  margin-left: 60px;
+}
+.buttons {
+  border-width: 0px;
+  align-self: flex-end;
+}
